@@ -1,0 +1,19 @@
+{
+  "name": "a05-eafowler",
+  "version": "1.0.0",
+  "description": "a05",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a05-eafowler.git"
+  },
+  "author": "Edward Fowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a05-eafowler/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a05-eafowler#readme"
+}
