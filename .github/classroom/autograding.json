@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Added some things",
+      "setup": "SHELL=/bin/bash",
+      "run": "ls",
+      "input": "",
+      "output": ".*\\.html|.*\\.json|.*\\.js",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
